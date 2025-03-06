@@ -1,0 +1,22 @@
+[
+  {
+    "title": "BCA",
+    "url": "/payment/bca.png",
+    "noRekening": "0823471234876876"
+  },
+  {
+    "title": "Mandiri",
+    "url": "/payment/mandiri.png",
+    "noRekening": "767234766723787"
+  },
+  {
+    "title": "BNI",
+    "url": "/payment/BNI (Bank Negara Indonesia).png",
+    "noRekening": "126t762367"
+  },
+  {
+    "title": "BRI",
+    "url": "/payment/BRI (Bank Rakyat Indonesia).png",
+    "noRekening": "65623567564654"
+  }
+]

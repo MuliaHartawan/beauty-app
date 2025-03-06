@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Gold",
+    "type": "Infus White",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam auctor, nunc nec ultricies.",
+    "price": 300,
+    "image": "/img/package-1.png",
+    "bestSeller": false,
+    "discount": 16,
+    "priceDiscount": 250
+  },
+  {
+    "title": "Platinum Korea",
+    "type": "Infus White",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam auctor, nunc nec ultricies.",
+    "price": 400,
+    "image": "/img/package-2.png",
+    "bestSeller": true,
+    "discount": 0,
+    "priceDiscount": 0
+  },
+  {
+    "title": "Platinum Japan",
+    "type": "Infus White",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam auctor, nunc nec ultricies.",
+    "price": 500,
+    "image": "/img/package-3.png",
+    "bestSeller": false,
+    "discount": 0,
+    "priceDiscount": 0
+  },
+  {
+    "title": "Premium Korea",
+    "type": "Infus White",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam auctor, nunc nec ultricies.",
+    "price": 600,
+    "image": "/img/package-4.png",
+    "bestSeller": false,
+    "discount": 0,
+    "priceDiscount": 0
+  }
+]

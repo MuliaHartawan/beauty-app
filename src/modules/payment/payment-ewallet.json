@@ -1,0 +1,22 @@
+[
+  {
+    "title": "ShopeePay",
+    "url": "/payment/Shopee Pay.png",
+    "noRekening": "0823471234876876"
+  },
+  {
+    "title": "Gopay",
+    "url": "/payment/Gopay.png",
+    "noRekening": "767234766723787"
+  },
+  {
+    "title": "OVO",
+    "url": "/payment/ovo.png",
+    "noRekening": "126t762367"
+  },
+  {
+    "title": "Dana",
+    "url": "/payment/DANA.png",
+    "noRekening": "65623567564654"
+  }
+]

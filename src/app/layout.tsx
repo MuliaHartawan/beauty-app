@@ -28,7 +28,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${elMessiri.variable} ${montserrat.variable} font-montserrat antialiased`}
+        className={`${elMessiri.variable} ${montserrat.variable} font-montserrat antialiased min-h-screen bg-gradient-to-b from-purple-50 to-stone-50`}
       >
         {children}
       </body>
